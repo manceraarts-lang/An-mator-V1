@@ -1,12 +1,7 @@
-[
-  {
-    "id": "louren-001",
-    "titulo": "Louren",
-    "numero": "001",
-    "sinopsis": "Mi primer cómic de prueba.",
-    "portada": "https://www.google.com/imgres?imgurl=https://i.pinimg.com/736x/22/3b/40/223b40af390834ba7669b7b183f91626.jpg&imgrefurl=https://www.pinterest.com/florsaravi/hombre-ala%C3%B1a/&h=1097&w=736&tbnid=YEMpQkrHzr3MeM&tbnh=274&tbnw=184&osm=1&hcb=1&source=lens-native&docid=WOnBFUJIUViL7M",
-    "paginas": [
-      "https://hgcloud.to/5aetniduaifo"
-    ]
-  }
-]
+{
+  "titulo": "Louren",
+  "numero": "001",
+  "sinopsis": "...",
+  "portada": "https://share.google/sYUrvz2m5cnZzIcOf",
+  "paginas": ["https://hgcloud.to/5aetniduaifo"]
+}

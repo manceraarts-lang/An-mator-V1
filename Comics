@@ -1,0 +1,13 @@
+[
+  {
+    "id": "louren-001",
+    "titulo": "Louren",
+    "numero": "001",
+    "sinopsis": "Mi primer cómic de prueba.",
+    "portada": "https://xxxxx.supabase.co/storage/v1/object/public/comics/portada-louren-001.jpg",
+    "paginas": [
+      "https://xxxxx.supabase.co/storage/v1/object/public/comics/louren-001-01.jpg",
+      "https://xxxxx.supabase.co/storage/v1/object/public/comics/louren-001-02.jpg"
+    ]
+  }
+]
